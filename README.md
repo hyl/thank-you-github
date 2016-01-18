@@ -302,3 +302,4 @@ Signed,
 - Gil Goncalves ([@lurst](https://github.com/lurst)), Software Developer
 - Arne Bahlo ([@bahlo](https://github.com/bahlo)), Full Stack Developer
 - Joe Simpson ([@kennydude](https://github.com/kennydude)), Web Developer
+- Jamie Hoyle ([@hyl](https://github.com/hyl]), Developer
